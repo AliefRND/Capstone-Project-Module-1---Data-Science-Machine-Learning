@@ -53,7 +53,7 @@ It helps them **buy, ship, and sell** items according to current inventory data.
 
 ---
 
-## 🔧 Features
+##  Features
 
 ### Create
 - Add new **Stock** entries with essential details such as:
